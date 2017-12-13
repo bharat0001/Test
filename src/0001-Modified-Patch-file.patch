@@ -1,0 +1,23 @@
+From 68680b4278319cbd2298e21c97be92b776781bd4 Mon Sep 17 00:00:00 2001
+From: Bharat <unicom@unicoms-MacBook-Air.local>
+Date: Wed, 13 Dec 2017 15:48:45 +0530
+Subject: [PATCH] Modified Patch file
+
+---
+ src/README1.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/README1.md b/src/README1.md
+index b5d2b16..eb55ed0 100644
+--- a/src/README1.md
++++ b/src/README1.md
+@@ -3,5 +3,5 @@ Learn GITHUB
+ aaa
+ dchjbjshbjdvhb
+ bhbnbbi
+-njcjchbdb
++jcjchbdb
+ testing patch file
+-- 
+1.9.5 (Apple Git-50.3)
+
